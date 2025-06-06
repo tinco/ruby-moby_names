@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    moby_names (0.1.0)
+    moby_names (1.0.0)
 
 GEM
   remote: https://rubygems.org/
