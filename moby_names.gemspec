@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Ruby port of the Moby namesgenerator package."
   spec.description = "Provides a simple way to generate random Docker-like names (adjective_noun) in Ruby. This is a port of the Go package from moby/moby."
-  spec.homepage = "https://github.com/tinco/moby_names"
+  spec.homepage = "https://github.com/tinco/ruby-moby_names"
   spec.license = "Apache-2.0"
   spec.required_ruby_version = ">= 3.1.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/tinco/moby_names"
-  spec.metadata["changelog_uri"] = "https://github.com/tinco/moby_names/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/tinco/ruby-moby_names"
+  spec.metadata["changelog_uri"] = "https://github.com/tinco/ruby-moby_names/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
